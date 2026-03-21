@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-cli",
+  "version": "1.0.0",
+  "description": "portfolio in a terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhatrichit10-ux/porfolio-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bhatrichit10-ux/porfolio-cli/issues"
+  },
+  "homepage": "https://github.com/bhatrichit10-ux/porfolio-cli#readme",
+  "dependencies": {
+    "ssh2": "^1.17.0"
+  }
+}
